@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Athrva Naik
-- 👀 I’m interested in Web development, Data science and Cloud
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning web dev and data science
 - 📫 How to reach me? --->linked in: https://www.linkedin.com/in/AthrvaNaik and instagram: https://www.instagram.com/athrva_naik/
 
