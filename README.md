@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! I'm a passionate software developer who loves working on innovative projects and sharing knowledge with the community. Here's a bit more about me:
 
 ## 🌱 Learning
-- Currently diving deep into **Artificial Intelligence and Machine Learning (AIML)**.
 - Exploring advanced concepts in **Web Development**.
 - Getting hands-on with **DevOps** practices and tools.
+- Currently diving deep into **Artificial Intelligence and Machine Learning (AIML)**.
 
 ## 💬 Ask me about
 - Python 🐍
