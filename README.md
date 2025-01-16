@@ -14,17 +14,11 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 
 
 ## 📫 How to reach me
-- Email: [athrvanaik@example.com](mailto:naikathrva1@gmail.com.com)
-- LinkedIn: [AthrvaNaik](https://www.linkedin.com/in/athrvanaik)
+- Email: [naikathrva1@gmail.com](mailto:naikathrva1@gmail.com.com)
+- LinkedIn: [Athrva Naik](https://www.linkedin.com/in/athrvanaik)
 
 ## ⚡ Fun fact
 - I love hiking and exploring nature trails during weekends.
-
-## 📈 GitHub Stats
-![AthrvaNaik's GitHub stats](https://github-readme-stats.vercel.app/api?username=AthrvaNaik&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![AthrvaNaik's GitHub trophies](https://github-profile-trophy.vercel.app/?username=AthrvaNaik&theme=radical)
 
 ## 🚀 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
