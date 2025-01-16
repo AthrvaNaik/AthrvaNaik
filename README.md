@@ -1,5 +1,7 @@
 # Hi there, I'm Athrva Naik 👋
 
+![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+
 Welcome to my GitHub profile! I'm a passionate software developer who loves working on innovative projects and sharing knowledge with the community. Here's a bit more about me:
 
 ## 🌱 Learning
@@ -12,9 +14,8 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 - JavaScript 📜
 - Web Development 🌐
 
-
 ## 📫 How to reach me
-- Email: [naikathrva1@gmail.com](mailto:naikathrva1@gmail.com.com)
+- Email: [naikathrva1@gmail.com](mailto:naikathrva1@gmail.com)
 - LinkedIn: [Athrva Naik](https://www.linkedin.com/in/athrvanaik)
 
 ## ⚡ Fun fact
@@ -28,5 +29,7 @@ Welcome to my GitHub profile! I'm a passionate software developer who loves work
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![Thanks](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 Thanks for stopping by! 😊
