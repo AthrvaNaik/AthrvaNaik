@@ -1,7 +1,5 @@
 # Hi there, I'm Athrva Naik 👋
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 Welcome to my GitHub profile! I'm a passionate software developer who loves working on innovative projects and sharing knowledge with the community. Here's a bit more about me:
 
 ## 🌱 Learning
