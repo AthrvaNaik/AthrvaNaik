@@ -1,10 +1,6 @@
-
-
-````markdown name=README.md
 # Hi there, I'm Athrva  👋
 
 Welcome to my GitHub profile! I'm a passionate software developer who loves working on innovative projects and sharing knowledge with the community.
-
 
 ## 🚀 About Me
 - 🌱 **Learning:** Exploring advanced concepts in **Web Development**, getting hands-on with **DevOps** practices and tools, and diving deep into **Artificial Intelligence and Machine Learning (AIML)**.
@@ -39,5 +35,3 @@ Here are a few projects I've worked on:
 ![Thanks](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 Thanks for stopping by! 😊
-````
-
